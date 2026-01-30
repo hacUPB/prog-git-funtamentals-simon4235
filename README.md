@@ -34,6 +34,13 @@ Descarga todo el historial de commits.
 
 Configura automáticamente el remoto (llamado origin), por lo que ya estás listo para hacer git pull o git push.
 
+## Tabla de contenido  
+
+* [Uso Consola](./docs/uso_consola.md)
+* [Archivo git ignore](./docs/Archivo_gitignore.md)
+* [Repositorio local](./docs/repositorio_local.md)
+* [Repositorio remoto](./docs/repositorio_remoto.md)
+
 ## Instrucciones:
 
 1. **Crea la estructura del proyecto:**
