@@ -2,13 +2,10 @@
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
-Id.:  
+Id.: 000583190  
 ---
-# Evaluación
-
-### **Descripción de la Actividad:**
-
-Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
+## Descripcion repositorio  
+Este repositorio se escribio con el proposito de aprender a utilizar git, sus repositorios locales y remotos. Habla de los comandos y de las diferentes herramientas para utilizarlo correctamente.
 
 
 ## Instrucciones:
