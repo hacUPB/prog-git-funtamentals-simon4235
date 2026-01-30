@@ -1,14 +1,45 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
-Id.:  
+Id.: 000583190  
 ---
-# Evaluación
+## Descripcion repositorio  
+Este repositorio se escribio con el proposito de aprender a utilizar git, sus repositorios locales y remotos. Habla de los comandos y de las diferentes herramientas para utilizarlo correctamente.
 
-### **Descripción de la Actividad:**
+## Como clonar un proyecto  
+Clonar un repositorio es básicamente descargar una copia completa de un proyecto (incluyendo su historial de cambios) desde un servidor remoto (como GitHub) a tu computadora local.
 
-Vas a clonar el repositorio en tu computador. Posteriormente, vas a crear una serie de carpetas y archivos, tal como se describe en las **Instrucciones**. En cada uno de los pasos que realices, debes crear un **commit** (en total, deben ser más de 10). Incluye imágenes, pantallazos y todo lo que consideres necesario para que tu repositorio esté organizado y se entienda. El aspecto visual es importante. Debes utilizar el lenguaje **Markdonw** para mejorar la presentación de tu proyecto.
+Aquí tienes los pasos detallados:
 
+1. Obtén la URL del repositorio
+Ve a la página del repositorio en GitHub (o la plataforma que uses), haz clic en el botón verde "<> Code" y copia la URL que aparece (puedes elegir entre HTTPS o SSH).
+
+2. Usa el comando git clone
+Abre tu terminal o consola, navega hasta la carpeta donde quieras guardar el proyecto y escribe:
+
+Bash
+git clone https://github.com/usuario/nombre-del-repositorio.git
+3. (Opcional) Clonar en una carpeta específica
+Si quieres que la carpeta tenga un nombre diferente al del repositorio en la nube, puedes añadir el nombre al final del comando:
+
+Bash
+git clone https://github.com/usuario/repo.git mi-nombre-personalizado
+¿Qué sucede después de clonar?
+Git crea una carpeta con el nombre del proyecto.
+
+Descarga todos los archivos y carpetas.
+
+Descarga todo el historial de commits.
+
+Configura automáticamente el remoto (llamado origin), por lo que ya estás listo para hacer git pull o git push.
+
+## Tabla de contenido  
+
+* [Uso Consola](./docs/uso_consola.md)
+* [Archivo git ignore](./docs/Archivo_gitignore.md)
+* [Repositorio local](./docs/repositorio_local.md)
+* [Repositorio remoto](./docs/repositorio_remoto.md)
 
 ## Instrucciones:
 
