@@ -7,6 +7,32 @@ Id.: 000583190
 ## Descripcion repositorio  
 Este repositorio se escribio con el proposito de aprender a utilizar git, sus repositorios locales y remotos. Habla de los comandos y de las diferentes herramientas para utilizarlo correctamente.
 
+## Como clonar un proyecto  
+Clonar un repositorio es básicamente descargar una copia completa de un proyecto (incluyendo su historial de cambios) desde un servidor remoto (como GitHub) a tu computadora local.
+
+Aquí tienes los pasos detallados:
+
+1. Obtén la URL del repositorio
+Ve a la página del repositorio en GitHub (o la plataforma que uses), haz clic en el botón verde "<> Code" y copia la URL que aparece (puedes elegir entre HTTPS o SSH).
+
+2. Usa el comando git clone
+Abre tu terminal o consola, navega hasta la carpeta donde quieras guardar el proyecto y escribe:
+
+Bash
+git clone https://github.com/usuario/nombre-del-repositorio.git
+3. (Opcional) Clonar en una carpeta específica
+Si quieres que la carpeta tenga un nombre diferente al del repositorio en la nube, puedes añadir el nombre al final del comando:
+
+Bash
+git clone https://github.com/usuario/repo.git mi-nombre-personalizado
+¿Qué sucede después de clonar?
+Git crea una carpeta con el nombre del proyecto.
+
+Descarga todos los archivos y carpetas.
+
+Descarga todo el historial de commits.
+
+Configura automáticamente el remoto (llamado origin), por lo que ya estás listo para hacer git pull o git push.
 
 ## Instrucciones:
 
